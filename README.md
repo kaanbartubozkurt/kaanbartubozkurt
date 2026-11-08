@@ -6,41 +6,41 @@ I’m a Computer Engineering student building developer tools, investigating rep
 
 **Core tools:** Python · pytest · Git / Git LFS · GitHub Actions · SQL / PostgreSQL · Celery · C++ · Unreal Engine 5 · Blueprints
 
-[LinkedIn](https://www.linkedin.com/in/kaan-bartu-bozkurt-1b12b043b/) · [GitHub](https://github.com/Kaan081)
+[LinkedIn](https://www.linkedin.com/in/kaan-bartu-bozkurt-1b12b043b/) · [GitHub](https://github.com/kaanbartubozkurt)
 
 ## Selected engineering work
 
 ### Developer tools & backend
 
-**[BranchRift — Git integration risk CLI](https://github.com/Kaan081/branchrift)**  
+**[BranchRift — Git integration risk CLI](https://github.com/kaanbartubozkurt/branchrift)**
 *Python · Git · Git LFS · CLI · CI*
 
-A published, read-only tool that reports branch divergence, same-path changes, binary-sensitive collisions, Git LFS readiness and ownership/review gaps before integration. It provides evidence for a human decision; it does not merge branches or guarantee conflict prediction.  
-[PyPI package](https://pypi.org/project/branchrift/) · [Source code](https://github.com/Kaan081/branchrift)
+A published, read-only tool that reports branch divergence, same-path changes, binary-sensitive collisions, Git LFS readiness and ownership/review gaps before integration. It provides evidence for a human decision; it does not merge branches or guarantee conflict prediction.
+[PyPI package](https://pypi.org/project/branchrift/) · [Source code](https://github.com/kaanbartubozkurt/branchrift)
 
-**[Nativory — React Native / Android upgrade evidence](https://github.com/Kaan081/Nativory)**  
+**[Nativory — React Native / Android upgrade evidence](https://github.com/kaanbartubozkurt/Nativory)**
 *Python · Gradle · React Native · Evidence verification*
 
-A conservative, read-only experiment for tracing native dependency and compatibility evidence. The current `main` branch supports a scoped AGP/Gradle check; additional Expo/FBJNI and ELF-alignment research remains in [draft PR #2](https://github.com/Kaan081/Nativory/pull/2). It is not an APK certification or auto-repair tool.
+A conservative, read-only experiment for tracing native dependency and compatibility evidence. The current `main` branch supports a scoped AGP/Gradle check; additional Expo/FBJNI and ELF-alignment research remains in [draft PR #2](https://github.com/kaanbartubozkurt/Nativory/pull/2). It is not an APK certification or auto-repair tool.
 
-**[Reprovant — Worker failure experiments](https://github.com/Kaan081/reprovant)**  
+**[Reprovant — Worker failure experiments](https://github.com/kaanbartubozkurt/reprovant)**
 *Python · Celery · PostgreSQL · pytest*
 
-Research into reproducible worker failure modes, including duplicate effects and state regressions. Includes controlled experiments and explicit evidence boundaries. **Research case study, not a commercially validated product or production certification.**  
-[Evidence case study](https://github.com/Kaan081/reprovant/blob/main/docs/REPROVANT_EVIDENCE_CASE_STUDY.md)
+Research into reproducible worker failure modes, including duplicate effects and state regressions. Includes controlled experiments and explicit evidence boundaries. **Research case study, not a commercially validated product or production certification.**
+[Evidence case study](https://github.com/kaanbartubozkurt/reprovant/blob/main/docs/REPROVANT_EVIDENCE_CASE_STUDY.md)
 
 ### Gameplay engineering
 
-**[False Normality — Psychological horror game](https://store.steampowered.com/app/4925070/)**  
+**[False Normality — Psychological horror game](https://store.steampowered.com/app/4925070/)**
 *Unreal Engine 5 · C++ · Blueprints · Gameplay systems*
 
 Released on Steam on **September 15, 2026**. In our two-person team, I worked on gameplay logic, Blueprint systems, AI interactions and input behavior.
 
-**[SON HAT — Supper's Ready / Civil Game Jam 2026](https://github.com/Kaan081/supper-ready-civil-game-jam-2026/tree/integration/son-hat)**  
+**[SON HAT — Supper's Ready / Civil Game Jam 2026](https://github.com/kaanbartubozkurt/supper-ready-civil-game-jam-2026/tree/integration/son-hat)**
 *Unreal Engine 5.7 · C++ · Grappling · State-driven gameplay · Automation tests*
 
-A **48-hour, unfinished game jam prototype** featuring grappling movement and a timed rooftop rescue-signaling system. My primary work covered C++ gameplay, rescue-state logic, HUD/interaction behavior, tests and integration. The source is available for technical review; the final city is **not reproducible as a standalone playable build** from the public repository.  
-[Gameplay C++](https://github.com/Kaan081/supper-ready-civil-game-jam-2026/blob/integration/son-hat/Source/UEIntroProject_1/GrappleComponent.cpp) · [Rescue-state logic](https://github.com/Kaan081/supper-ready-civil-game-jam-2026/blob/integration/son-hat/Source/UEIntroProject_1/SonHatEvacuationDirector.cpp) · [Verification limits](https://github.com/Kaan081/supper-ready-civil-game-jam-2026/blob/integration/son-hat/README.md)
+A **48-hour, unfinished game jam prototype** featuring grappling movement and a timed rooftop rescue-signaling system. My primary work covered C++ gameplay, rescue-state logic, HUD/interaction behavior, tests and integration. The source is available for technical review; the final city is **not reproducible as a standalone playable build** from the public repository.
+[Gameplay C++](https://github.com/kaanbartubozkurt/supper-ready-civil-game-jam-2026/blob/integration/son-hat/Source/UEIntroProject_1/GrappleComponent.cpp) · [Rescue-state logic](https://github.com/kaanbartubozkurt/supper-ready-civil-game-jam-2026/blob/integration/son-hat/Source/UEIntroProject_1/SonHatEvacuationDirector.cpp) · [Verification limits](https://github.com/kaanbartubozkurt/supper-ready-civil-game-jam-2026/blob/integration/son-hat/README.md)
 
 ## Selected open-source contributions
 
